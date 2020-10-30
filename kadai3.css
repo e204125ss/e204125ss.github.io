@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+     color:white;
+    background-color: black;  
+}
+body{
+background-image: url(../images/06.jpg);
+}
+h2{
+  text-align: center;
+     color:black;
+    background-color: green;   
+}
+h3{
+    text-align: center;
+   color:black; 
+    background-color: green;  
+}
+h4{
+    color: yellow;
+}
+p{
+    color:darkgreen;
+}
