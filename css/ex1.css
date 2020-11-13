@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+     color:white;
+    background-color: black;  
+}
+body{
+background-image: url(../images/08.jpg);
+}
+h2{
+  text-align: center;
+     color:springgreen;
+    background-color: whitesmoke;   
+}
+table  {
+     background-color: aqua
+}
+ol{
+    background-image: url(../images/07.jpg);
+}
