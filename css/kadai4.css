@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+     color:white;
+    background-color: black;  
+}
+body{
+background-image: url(../images/06.jpg);
+}
+h2 {
+  text-align: center;
+     color:white;
+    background-color: lightblue;   
+}
+
+h2#sota {
+    text-align: center;
+    color: gold;
+    background-color: black;
+}
+h1#shiba{
+    color: wheat;
+    background-color: green;
+}
